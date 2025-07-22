@@ -1,0 +1,8 @@
+Pandas
+NumPy
+NLTK 
+Text2Emotion  
+NRCLex 
+scikit-learn 
+Seaborn 
+Matplotlib 
